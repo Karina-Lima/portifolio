@@ -24,8 +24,8 @@
 }
 
 :root {
-    --color_primary: #a065ff;
-    --color_secondary: #8371eb;
+    --color_primary: #cc7fa2;
+    --color_secondary: #dc50cf;
     --color_gradient: linear-gradient(90deg, var(--color_secondary), var(--color_primary))
 }
 
